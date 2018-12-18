@@ -12,5 +12,8 @@ public class UserDao {
     public void selectUser(){
         System.out.println("nihao");
     }
+    public void showUser(){
+        System.out.println("helloworld");
+    }
 
 }
